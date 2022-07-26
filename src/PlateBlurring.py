@@ -3,8 +3,6 @@ Python code to blur russian car plates automatically.
 This technique was introduced during an lecture at https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/.
 """
 import cv2
-import numpy as np
-import matplotlib.pyplot as plt
 
 
 #Using OpenCV built-in classifier for russian license plates
